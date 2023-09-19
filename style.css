@@ -1,0 +1,56 @@
+html {
+    margin: 0;
+  }
+  
+  span {
+    display: block;
+  }
+
+  .canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .button {
+    width: 100px;
+    height: 100px;
+    border-left: solid red 2px;
+    border-radius: 20px;
+    padding-left: 10px;
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  #grey {
+    background: grey;
+    /* background-color: black; */
+    color: black;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #yellow {
+    background: yellow;
+  }
+  #purple{
+    background: purple;
+  }
+
+  #foo{
+
+    font-weight: 100;
+    color: darkgray;
+    /* background-color: black; */
+  }
+  #header{
+    padding-top: 20px;
+     justify-content: center;
+
+      text-align: center;
+  }
+  
